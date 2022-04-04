@@ -1,0 +1,32 @@
+.list {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.dtl {
+    text-align: center;
+}
+.dtl h3,.dtl address {
+    margin: 10px 0;
+    text-transform: capitalize;
+}
+
+.btnfav {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.btnfav button {
+    padding: 6px;
+    border: 1px solid brown;
+    border-radius: 6px;
+    color: brown;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.img {
+    width: 500px;
+}
